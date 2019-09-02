@@ -1,0 +1,15 @@
+{
+  "name": "apiautomation",
+  "version": "1.0.0",
+  "description": "learn frisby api automation tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mochiyogurt",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest-cli": "^24.9.0"
+  }
+}
